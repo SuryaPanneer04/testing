@@ -1,7 +1,9 @@
 public class Tester {
     public static void main(String[] args) {
 
-        System.out.println("Surya");
-        System.out.println("Sundar");
+        String num="124";
+        int intvalue=Integer.parseInt(num);
+        System.out.println(intvalue);
+
     }
 }

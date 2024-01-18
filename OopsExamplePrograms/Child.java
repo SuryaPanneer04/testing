@@ -12,6 +12,5 @@ public class Child extends Parent {
         ob.getStudent();
         ob.getAddress();
         ob.display();
-
     }
 }

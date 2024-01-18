@@ -11,7 +11,5 @@ public class Parent {
          address="Anna Nagar,Sattur";
      }
     public static void main(String[] args) {
-
-
     }
 }
